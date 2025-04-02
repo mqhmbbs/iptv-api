@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-04-02 06:38:00,http://zjzcf.synology.me:35455/gaoma/cctv1.m3u8
+2025-04-02 18:44:52,http://zjzcf.synology.me:35455/gaoma/cctv1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://zjzcf.synology.me:35455/gaoma/cctv1.m3u8
@@ -16,9 +16,9 @@ CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u
 香港卫视,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
 甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 河北卫视,http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3d44740039027301acf8341d7361ab59
+陕西卫视,http://gat.bkpcp.top/ymg.php?id=sxws
 
 🌊港·澳·台,#genre#
-凤凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8
 凤凰中文,https://cdn.163189.xyz/live/fhzw/stream.m3u8
 凤凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
 凤凰中文,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
@@ -33,19 +33,24 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 
 🎬电影频道,#genre#
+CHC家庭影院,http://gat.bkpcp.top/ymg.php?id=jtyy
 靖天戏剧,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv058
 无线星河,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
 
 🏀体育频道,#genre#
 CCTV-5,http://zjzcf.synology.me:35455/gaoma/cctv5.m3u8
 CCTV-5+,http://zjzcf.synology.me:35455/gaoma/cctv5p.m3u8
+魅力足球,http://gat.bkpcp.top/ymg.php?id=mlzq
 
 🪁动画频道,#genre#
+浙江少儿,https://qiniup-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 海绵宝宝,https://live.metshop.top/douyu/3949681
 中华小当家,https://live.metshop.top/huya/11342413
 漫画解说,https://www.goodiptv.club/douyu/5907076
 
 🎮游戏频道,#genre#
+游戏风云,http://gat.bkpcp.top/ymg.php?id=yxfy
 
 🎵音乐频道,#genre#
 
