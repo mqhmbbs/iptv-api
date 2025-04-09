@@ -1,13 +1,7 @@
 🕘️更新时间,#genre#
-2025-04-09 06:37:15,http://zjzcf.synology.me:35455/gaoma/cctv1.m3u8
+2025-04-10 06:40:23,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8
 
 📺央视频道,#genre#
-CCTV-1,http://zjzcf.synology.me:35455/gaoma/cctv1.m3u8
-CCTV-2,http://zjzcf.synology.me:35455/gaoma/cctv2.m3u8
-CCTV-3,http://zjzcf.synology.me:35455/gaoma/cctv3.m3u8
-CCTV-5,http://zjzcf.synology.me:35455/gaoma/cctv5.m3u8
-CCTV-5+,http://zjzcf.synology.me:35455/gaoma/cctv5p.m3u8
-CCTV-8,http://zjzcf.synology.me:35455/gaoma/cctv8.m3u8
 CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8
 
 💰央视付费频道,#genre#
@@ -33,17 +27,20 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
+无线新闻,https://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8
+无线新闻,http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 
 🎬电影频道,#genre#
 
 🏀体育频道,#genre#
-CCTV-5,http://zjzcf.synology.me:35455/gaoma/cctv5.m3u8
-CCTV-5+,http://zjzcf.synology.me:35455/gaoma/cctv5p.m3u8
+广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
 
 🪁动画频道,#genre#
-浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,https://qiniup-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+海绵宝宝,https://live.metshop.top/douyu/3949681
+中华小当家,https://live.metshop.top/huya/11342413
+漫画解说,https://www.goodiptv.club/douyu/5907076
 
 🎮游戏频道,#genre#
 
@@ -51,6 +48,7 @@ CCTV-5+,http://zjzcf.synology.me:35455/gaoma/cctv5p.m3u8
 
 🏛经典剧场,#genre#
 天龙八部,http://www.clmy.cc:35455/yy/1355067965
+天龙八部,https://live.metshop.top/huya/23903123
 水浒传,http://www.clmy.cc:35455/yy/1353873252
 新白娘子传奇,http://www.clmy.cc:35455/yy/1354490667
 封神榜,http://www.clmy.cc:35455/yy/1353426319
