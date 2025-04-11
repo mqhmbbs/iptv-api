@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-04-11 06:39:34,http://13937899.xyz:35455/gaoma/cctv3.m3u8
+2025-04-11 18:40:19,http://13937899.xyz:35455/gaoma/cctv3.m3u8
 
 📺央视频道,#genre#
 CCTV-3,http://13937899.xyz:35455/gaoma/cctv3.m3u8
@@ -16,7 +16,6 @@ CCTV-16,http://13937899.xyz:35455/gaoma/cctv16.m3u8
 香港卫视,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-甘肃卫视,https://hls.gstv.com.cn/skt649/w0w7k2.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
 广西卫视,http://live.cztv.cc:85/live/ggpd.m3u8
 河北卫视,http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3d44740039027301acf8341d7361ab59
@@ -32,14 +31,16 @@ CCTV-16,http://13937899.xyz:35455/gaoma/cctv16.m3u8
 香港卫视,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 翡翠台,https://cdn.163189.xyz/live/fct4k/stream.m3u8
+翡翠台,http://v2h.jdshipin.com:80/jade2/jade.stream/chunklist_w100.m3u8
 翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
+无线新闻,http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
 无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 无线新闻,https://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8
-无线新闻,http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 
 🎬电影频道,#genre#
+无线星河,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
 
 🏀体育频道,#genre#
 CCTV-5+,http://13937899.xyz:35455/gaoma/cctv5p.m3u8
@@ -47,6 +48,7 @@ CCTV-5+,http://13937899.xyz:35455/gaoma/cctv5p.m3u8
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
 
 🪁动画频道,#genre#
+浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,https://qiniup-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 海绵宝宝,https://live.metshop.top/douyu/3949681
 中华小当家,https://live.metshop.top/huya/11342413
