@@ -1,29 +1,40 @@
 🕘️更新时间,#genre#
-2025-04-12 06:40:37,http://zjzcf.synology.me:35455/gaoma/cctv1.m3u8
+2025-04-12 18:37:29,http://dsj.motem.top:8880/gaoma/cctv1.m3u8
 
 📺央视频道,#genre#
-CCTV-1,http://zjzcf.synology.me:35455/gaoma/cctv1.m3u8
-CCTV-2,http://zjzcf.synology.me:35455/gaoma/cctv2.m3u8
+CCTV-1,http://dsj.motem.top:8880/gaoma/cctv1.m3u8
+CCTV-2,http://dsj.motem.top:8880/gaoma/cctv2.m3u8
+CCTV-3,http://dsj.motem.top:8880/gaoma/cctv3.m3u8
 CCTV-3,http://13937899.xyz:35455/gaoma/cctv3.m3u8
-CCTV-3,http://zjzcf.synology.me:35455/gaoma/cctv3.m3u8
-CCTV-5,http://zjzcf.synology.me:35455/gaoma/cctv5.m3u8
+CCTV-4,http://dsj.motem.top:8880/gaoma/cctv4.m3u8
+CCTV-5,http://dsj.motem.top:8880/gaoma/cctv5.m3u8
+CCTV-5+,http://dsj.motem.top:8880/gaoma/cctv5p.m3u8
 CCTV-5+,http://13937899.xyz:35455/gaoma/cctv5p.m3u8
-CCTV-5+,http://zjzcf.synology.me:35455/gaoma/cctv5p.m3u8
 CCTV-6,http://13937899.xyz:35455/gaoma/cctv6.m3u8
-CCTV-8,http://zjzcf.synology.me:35455/gaoma/cctv8.m3u8
+CCTV-7,http://dsj.motem.top:8880/gaoma/cctv7.m3u8
+CCTV-8,http://dsj.motem.top:8880/gaoma/cctv8.m3u8
+CCTV-9,http://dsj.motem.top:8880/gaoma/cctv9.m3u8
+CCTV-10,http://dsj.motem.top:8880/gaoma/cctv10.m3u8
+CCTV-11,http://dsj.motem.top:8880/gaoma/cctv11.m3u8
+CCTV-12,http://dsj.motem.top:8880/gaoma/cctv12.m3u8
 CCTV-12,http://13937899.xyz:35455/gaoma/cctv12.m3u8
+CCTV-13,http://dsj.motem.top:8880/gaoma/cctv13.m3u8
 CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8
+CCTV-14,http://dsj.motem.top:8880/gaoma/cctv14.m3u8
 CCTV-14,http://13937899.xyz:35455/gaoma/cctv14.m3u8
+CCTV-15,http://dsj.motem.top:8880/gaoma/cctv15.m3u8
+CCTV-16,http://dsj.motem.top:8880/gaoma/cctv16.m3u8
 CCTV-16,http://13937899.xyz:35455/gaoma/cctv16.m3u8
+CCTV-17,http://dsj.motem.top:8880/gaoma/cctv17.m3u8
 
 💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
 香港卫视,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
+东方卫视,https://bp-cdn-ali.bestv.cn/enhance/bestvdfws_enhance.m3u8?auth_key=1744390805-d51f906318904a52a8730b668ed30c80-0-e148dae646f16b1c6f0ab9ad9c0f979e
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
-广西卫视,http://live.cztv.cc:85/live/ggpd.m3u8
 河北卫视,http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3d44740039027301acf8341d7361ab59
 三沙卫视,https://livessws.hnntv.cn/live/ssws_01hnntv.m3u8?_upt=626783981743357501
 
@@ -31,23 +42,23 @@ CCTV-16,http://13937899.xyz:35455/gaoma/cctv16.m3u8
 凤凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
 凤凰中文,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
 凤凰资讯,https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
+凤凰卫视,http://cdn.132.us.kg/live/fhzw/stream.m3u8
 香港卫视,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
-翡翠台,http://v2h.jdshipin.com:80/jade2/jade.stream/chunklist_w100.m3u8
 无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 
 🎬电影频道,#genre#
-无线星河,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
 
 🏀体育频道,#genre#
-CCTV-5,http://zjzcf.synology.me:35455/gaoma/cctv5.m3u8
+CCTV-5,http://dsj.motem.top:8880/gaoma/cctv5.m3u8
+CCTV-5+,http://dsj.motem.top:8880/gaoma/cctv5p.m3u8
 CCTV-5+,http://13937899.xyz:35455/gaoma/cctv5p.m3u8
-CCTV-5+,http://zjzcf.synology.me:35455/gaoma/cctv5p.m3u8
 
 🪁动画频道,#genre#
+浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,https://qiniup-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 海绵宝宝,https://live.metshop.top/douyu/3949681
 中华小当家,https://live.metshop.top/huya/11342413
@@ -56,6 +67,7 @@ CCTV-5+,http://zjzcf.synology.me:35455/gaoma/cctv5p.m3u8
 🎮游戏频道,#genre#
 
 🎵音乐频道,#genre#
+CCTV-15,http://dsj.motem.top:8880/gaoma/cctv15.m3u8
 
 🏛经典剧场,#genre#
 天龙八部,http://www.clmy.cc:35455/yy/1355067965
