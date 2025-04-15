@@ -1,25 +1,19 @@
 🕘️更新时间,#genre#
-2025-04-15 06:38:33,http://dsj.motem.top:8880/gaoma/cctv1.m3u8
+2025-04-15 18:40:49,http://dsj.motem.top:8880/gaoma/cctv1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://dsj.motem.top:8880/gaoma/cctv1.m3u8
-CCTV-1,http://zjzcf.synology.me:35455/gaoma/cctv1.m3u8
 CCTV-2,http://dsj.motem.top:8880/gaoma/cctv2.m3u8
-CCTV-2,http://zjzcf.synology.me:35455/gaoma/cctv2.m3u8
 CCTV-3,http://dsj.motem.top:8880/gaoma/cctv3.m3u8
 CCTV-3,http://13937899.xyz:35455/gaoma/cctv3.m3u8
-CCTV-3,http://zjzcf.synology.me:35455/gaoma/cctv3.m3u8
 CCTV-4,http://dsj.motem.top:8880/gaoma/cctv4.m3u8
 CCTV-5,http://dsj.motem.top:8880/gaoma/cctv5.m3u8
-CCTV-5,http://zjzcf.synology.me:35455/gaoma/cctv5.m3u8
 CCTV-5+,http://dsj.motem.top:8880/gaoma/cctv5p.m3u8
 CCTV-5+,http://13937899.xyz:35455/gaoma/cctv5p.m3u8
-CCTV-5+,http://zjzcf.synology.me:35455/gaoma/cctv5p.m3u8
 CCTV-6,http://13937899.xyz:35455/gaoma/cctv6.m3u8
 CCTV-7,http://dsj.motem.top:8880/gaoma/cctv7.m3u8
 CCTV-8,http://dsj.motem.top:8880/gaoma/cctv8.m3u8
 CCTV-8,http://13937899.xyz:35455/gaoma/cctv8.m3u8
-CCTV-8,http://zjzcf.synology.me:35455/gaoma/cctv8.m3u8
 CCTV-9,http://dsj.motem.top:8880/gaoma/cctv9.m3u8
 CCTV-10,http://dsj.motem.top:8880/gaoma/cctv10.m3u8
 CCTV-11,http://dsj.motem.top:8880/gaoma/cctv11.m3u8
@@ -56,26 +50,27 @@ CCTV-17,http://dsj.motem.top:8880/gaoma/cctv17.m3u8
 香港卫视,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 翡翠台,https://cdn.163189.xyz/live/fct4k/stream.m3u8
+翡翠台,http://v2h.jdshipin.com:80/jade2/jade.stream/chunklist_w100.m3u8
 翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
+无线新闻,http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
 无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 无线新闻,https://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8
-无线新闻,http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 
 🎬电影频道,#genre#
+无线星河,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
 
 🏀体育频道,#genre#
 CCTV-5,http://dsj.motem.top:8880/gaoma/cctv5.m3u8
-CCTV-5,http://zjzcf.synology.me:35455/gaoma/cctv5.m3u8
 CCTV-5+,http://dsj.motem.top:8880/gaoma/cctv5p.m3u8
 CCTV-5+,http://13937899.xyz:35455/gaoma/cctv5p.m3u8
-CCTV-5+,http://zjzcf.synology.me:35455/gaoma/cctv5p.m3u8
-广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
 广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
+广东体育,https://tv.cdn.com.mp/live/gdty/stream.m3u8
+广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
 
 🪁动画频道,#genre#
-浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江少儿,https://qiniup-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 海绵宝宝,https://live.metshop.top/douyu/3949681
 中华小当家,https://live.metshop.top/huya/11342413
 漫画解说,https://www.goodiptv.club/douyu/5907076
